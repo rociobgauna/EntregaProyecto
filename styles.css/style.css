@@ -1,0 +1,33 @@
+.container {
+    background-color: #306ca8;
+    width: 20rem;
+    height: 50rem;
+}
+.contenedor_titilo {
+    width: 100%;
+}
+.titulo {
+    font-size: 2.5rem;
+    color: #fff;
+}
+.boton {
+	display: inline;
+    width: 10rem;
+    height: 2.2rem;
+	background: hsl(290, 69%, 34%);
+    border-radius: 6px;
+	font-size: 15px;
+	color: #fff;
+    border: none;
+    box-shadow: 3px 3px 3px #404142;
+}
+
+.boton:hover {
+	background: hsl(290, 24%, 45%);
+}
+.inp {
+    background: none;
+    border: none;
+    color: #fff;
+    font-size: 1.2rem;
+}
